@@ -30,7 +30,6 @@ body {
     background-size: cover; /* Encontra o melhor tamanho que completa a tela */
     background-repeat:no-repeat; /* Não deixar repetir a imagem */
     background-position: center; /* Posiciona a imagem no centro da tela */
-    background-attachment: fixed; /*  A imagem fica fixa na viewport */
 }
 
 body * {
