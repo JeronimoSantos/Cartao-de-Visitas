@@ -6,7 +6,7 @@
 
 :root {
     --text-color: #FFFFFF;
-    --bg-url: url(./assets/bg-mobile.jpg);
+    --bg-url: url(./assets/jeronimodevwebweb.png);
     --stroke-color: rgba(255, 255, 255, 0.5);
     --surface-color: rgba(255, 255, 255, 0.1);
     --surface-color-hover: rgba(255, 255, 255, 0.05);
@@ -26,9 +26,11 @@
 }
 
 body {
-    background: var(--bg-url) no-repeat top
-    center/cover;
-    height: 100vh;
+    background: var(--bg-url);
+    background-size: cover; /* Encontra o melhor tamanho que completa a tela */
+    background-repeat:no-repeat; /* Não deixar repetir a imagem */
+    background-position: center; /* Posiciona a imagem no centro da tela */
+    background-attachment: fixed; /*  A imagem fica fixa na viewport */
 }
 
 body * {
@@ -159,7 +161,7 @@ ul li a:hover {
 
 @media (min-width: 700px) {
     :root {
-        --bg-url: url(./assets/bg-desktop.jpg);
+        --bg-url: url(./assets/jeronimodevwebweb.png);
     }
 
     .light {
