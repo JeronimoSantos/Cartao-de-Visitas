@@ -25,6 +25,10 @@
 
 }
 
+html {
+    height: 100vh;
+}
+
 body {
     background: var(--bg-url);
     background-size: cover; /* Encontra o melhor tamanho que completa a tela */
