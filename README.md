@@ -1,11 +1,19 @@
-<h1 align="center"> JeJeDev Links</h1>
-<p align="center">
-Projeto com o intuito de revisar e aprender conseitos novos do mercado e desenvolver mais as minhas habilidades.<br/>
-</p>
-<img src="https://github.com/user-attachments/assets/e4a88ef7-a50c-48be-9cd0-0f77ea11066d"/>
+# 📬 Projeto com o intuito de revisar e aprender conseitos novos do mercado e desenvolver mais as minhas habilidades.
 
-## Tecnologias 
-- HTML e CSS
-- JavaScript
-- Git e GitHub
-- Figma
+## 🧰 Tecnologias Utilizadas
+| Tecnologias | Versão |
+|-------------|--------|
+| HTML        | v5     |
+| CSS         | v3     |
+| JAVASCRIPT  | v22.15.0 |
+| GIT         | v2.46.0 |
+
+## 📸 Imagens do Projeto na versão Desktop
+![Imagem do projeto na versão dark](./src/imgs/projeto%20versão%20dark.png)
+
+![Imagem do projeto na versão light](./src/imgs/projeto%20versão%20light.png)
+
+## 📱 Imagens na versão de Mobile
+![Imagem do projeto na versão dark](./src/imgs/iPhone-13-PRO-127.0.0.1%20dark.png)
+
+![Imagem do projeto na versão light](./src/imgs/iPhone-13-PRO-127.0.0.1%20light.png)
