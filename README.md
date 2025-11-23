@@ -9,11 +9,11 @@
 | GIT         | v2.46.0 |
 
 ## 📸 Imagens do Projeto na versão Desktop
-![Imagem do projeto na versão dark](./src/imgs/projeto-versão-dark.png)
+<img alt="Imagem do projeto na versão dark" src="./src/imgs/projeto-versão-dark.png">
 
-![Imagem do projeto na versão light](./src/imgs/projeto-versão-light.png)
+<img alt="Imagem do projeto na versão light" src="./src/imgs/projeto-versão-light.png">
 
 ## 📱 Imagens na versão de Mobile
-![Imagem do projeto na versão dark](./src/imgs/iPhone-13-PRO-127.0.0.1-dark.png)
+<img alt="Imagem do projeto na versão dark" src="./src/imgs/iPhone-13-PRO-127.0.0.1-dark.png">
 
-![Imagem do projeto na versão light](./src/imgs/iPhone-13-PRO-127.0.0.1-light.png)
+<img alt="Imagem do projeto na versão light" src="./src/imgs/iPhone-13-PRO-127.0.0.1-light.png">
